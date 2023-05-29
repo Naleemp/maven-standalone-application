@@ -42,14 +42,14 @@
                 mvn scm:update -->
         <!--
         <scm>
-                <connection>scm:git:https://github.com/LandmarkTechnology/maven-standalone-applicationn</connection>
-                <developerConnection>scm:git://github.com/LandmarkTechnology/maven-standalone-application</developerConnection>
+                <connection>scm:git:https://github.com/Naleemp/maven-standalone-application</connection>
+                <developerConnection>scm:git://github.com/Naleemp/maven-standalone-application</developerConnection>
                 <tag>HEAD</tag>
-                <url>https://github.com/LandmarkTechnology/maven-standalone-application</url>
+                <url>https://github.com/Naleemp/maven-standalone-application</url>
         </scm>
         <issueManagement>
                 <system>GitHub</system>
-                <url>//github.com/LandmarkTechnology/maven-standalone-application/issues</url>
+                <url>//github.com/Naleemp/maven-standalone-application/issues</url>
         </issueManagement>
         -->
         <build>
